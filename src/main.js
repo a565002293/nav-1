@@ -37,6 +37,7 @@ const render = () => {
             render()
         })
     })
+
 }
 render()
 $('.addButton').on('click', () => {
